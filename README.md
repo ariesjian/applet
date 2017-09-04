@@ -4,5 +4,5 @@
 1. **[辩论赛计时器][2]** 主要学习点：动画 wx.createAnimation ，音频：audio ，缓存的获取和添加： wx.setStorageSync('key', 'value')，wx.getStorageSync('key')，单选：radio 开关：switch ；进度条：slider弹窗：action-sheet 注意这个是对view标签的使用，不是使用input标签，注意和input下的picker的区别使用。注意点：如何使用缓存数据，设置缓存数据，如果将不同页面的信息链接起来。
 
 
-  [1]:https://github.com/ariesjian/applet/blob/master/timer.zip
-  [2]:github:https://github.com/ariesjian/applet/blob/master/timer.zip
+  [1]:https://github.com/ariesjian/number_one/blob/master/applet.zip
+  [2]:https://github.com/ariesjian/applet/blob/master/timer.zip
