@@ -1,0 +1,34 @@
+
+@import "../index/index.wxss";
+.casts{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 150px;
+}
+.headers {
+  text-align: center;
+}
+.casts image{
+  width: 180px;
+  margin-left: 20rpx;
+  margin-right: 20rpx;
+}
+.detail{
+  padding-left: 20px;
+  padding-right: 20px;
+  color: white;
+  font-size: 13px;
+  line-height: 20px;
+  text-indent: 2em;
+    margin-bottom: 10px;
+}
+
+.hr{
+  height: 2px;
+  width: 100%;
+  background-color: black;
+  border-top: white solid 1px;
+  border-bottom:  white solid 1px;
+  opacity: 0.2;
+}

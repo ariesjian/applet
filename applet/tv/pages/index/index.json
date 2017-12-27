@@ -1,0 +1,21 @@
+{"tabBar": {
+  "selectedColor": "#FF9966",
+  "borderStyle": "white",
+  "list": [
+    {
+      "pagePath": "pages/firstWeb/firstWeb",
+      "text": "占卜师"
+      } ,   
+      {
+        "borderStyle": "white",
+        "pagePath": "pages/personal/personal",
+        "text": "个人主页"    
+      },
+      {
+        "borderStyle": "white",
+        "pagePath": "pages/personal/personal",
+        "text": "个人主页"
+      }
+    ]
+  }
+}
